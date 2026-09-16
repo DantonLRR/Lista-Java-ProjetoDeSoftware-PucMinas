@@ -1,2 +1,11 @@
-# Lista-Java-PucMinas
-Lista 1 de atividades java 
+# 03-java
+
+Executar
+
+```
+javac Main.java
+```
+
+```
+java Main
+```

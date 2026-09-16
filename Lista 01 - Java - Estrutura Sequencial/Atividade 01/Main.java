@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//1) Receba três notas, calcule e apresente a média aritmética delas.
 public class Main {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

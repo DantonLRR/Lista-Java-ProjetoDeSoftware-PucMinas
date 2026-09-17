@@ -13,7 +13,7 @@ class Main {
         int[] vetor = new int[10];
 
         for (int i = 0; i < 10; i++) {
-            System.out.println("Digite o número da posição " + i + ": ");
+            System.out.println("Digite o " + (i+1) + " número: ");
             vetor[i] = sc.nextInt();
         }
 
